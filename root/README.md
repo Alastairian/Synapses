@@ -19,3 +19,5 @@ npm start
 ## Deploy to Vercel
 
 Push this repo to GitHub and connect it to [Vercel](https://vercel.com). Vercel will handle everything automatically!
+npm run build
+npm start
